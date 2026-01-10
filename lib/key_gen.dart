@@ -1,0 +1,1 @@
+export 'package:hope_cache/src/key_gen.dart';

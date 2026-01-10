@@ -1,0 +1,11 @@
+name: hope_cache
+description: Simple and fast caching for Dart/Flutter with TTL support, multiple eviction strategies, and pluggable storage.
+version: 0.1.0
+repository: https://github.com/Eng-Hope/hope_dart_cache
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'  # More permissive - supports Dart 3.0+
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
