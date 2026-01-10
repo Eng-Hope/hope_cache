@@ -17,11 +17,8 @@ Simple and fast caching for Dart/Flutter with TTL support, multiple eviction str
 
 ## Installation
 
-```yaml
-dependencies:
-  hope_dart_cache:
-    git:
-      url: https://github.com/Eng-Hope/hope_cache.git
+```bash
+dart pub add hope_cache
 ```
 
 ## Quick Start
