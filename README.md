@@ -2,7 +2,7 @@
 
 Simple and fast caching for Dart/Flutter with TTL support, multiple eviction strategies, and pluggable storage.
 
-[![pub package](https://img.shields.io/pub/v/hope_dart_cache.svg)](https://pub.dev/packages/hope_dart_cache)
+[![pub package](https://img.shields.io/pub/v/hope_cache.svg)](https://pub.dev/packages/hope_cache)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Features
