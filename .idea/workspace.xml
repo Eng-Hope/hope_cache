@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aab1d76-6ee4-4d13-934b-7fdc27e8e59b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache_manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hope_cache.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/basic_usage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/basic_usage.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/custom_storage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/custom_storage.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/eviction_policies.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/eviction_policies.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/map_key.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/map_key.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ttl_configuration.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ttl_configuration.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cache_manager.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hope_cache.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/cache_manager_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/cache_manager_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -9,7 +9,7 @@ Simple and fast caching for Dart/Flutter with TTL support, multiple eviction str
 
 - **Multiple Eviction Policies** - LRU, LFU, FIFO
 - **TTL Support** - Global default with per-key overrides
-- **Map Keys** - React Query-style cache keys
+- **Map Keys** - Object cache keys
 - **Batch Operations** - Set/get multiple entries
 - **Pattern Invalidation** - Clear groups by prefix
 - **Pluggable Storage** - In-memory or custom backends
